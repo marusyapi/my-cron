@@ -1,1 +1,8 @@
 * * * * * echo 'hey hey hey hey'
+15 14 1 * * echo 'fist day'
+0 22 * * 1-5 echo 'oh wooork'
+15 14 * * 6-7 echo 'hey weekends'
+* * * * * echo 'goodbye goodbye'
+
+0 3 28 3 * echo 'summer time'
+0 4 31 10 * echo 'winter time'
